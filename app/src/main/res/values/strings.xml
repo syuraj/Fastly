@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fastly - search local apps</string>
+    <string name="keyboard_clear_text">Clear</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="app_height">260dp</dimen>
+    <dimen name="activity_horizontal_margin">0dp</dimen>
+    <dimen name="activity_vertical_margin">0dp</dimen>
+
+    <dimen name="grid_cell_spacing">8dp</dimen>
+    <dimen name="grid_col_width">54dp</dimen>
+    <dimen name="grid_row_height">80dp</dimen>
+    <dimen name="grid_cell_padding">4dp</dimen>
+    <dimen name="app_text_padding">4dp</dimen>
+
+    <dimen name="grid_icon_width">46dp</dimen>
+    <dimen name="grid_icon_height">46dp</dimen>
+
+    <dimen name="textbox_height_small">16dp</dimen>
+
+</resources>
